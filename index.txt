@@ -1,0 +1,10 @@
+Para criação da logo, usaremos o site FONT AWESOME
+https://fontawesome.com/
+<i class="fa-solid fa-v"></i>
+
+E o site CDNJS font AWESOME, versao 6.1.0
+https://cdnjs.com/libraries/font-awesome
+
+LINK da versao
+
+https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.0/css/all.min.css
